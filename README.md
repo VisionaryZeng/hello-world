@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+welcome to my project!
+
+Abraham here, I want to start-up a corporation about The internet of things.
